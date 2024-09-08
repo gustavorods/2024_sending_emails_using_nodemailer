@@ -1,7 +1,5 @@
 NodeMailer:
 <br/>
-`npm init`
-<br/>
 `npm install nodemailer`
 
 Node.js: 
